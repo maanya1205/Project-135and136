@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    color: black;
+    box-shadow: 5px 5px 5px sandybrown;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#start{
+    font-size: 23px;
+    color: darkblue;
+    box-shadow: 5px 5px 5px rgb(103, 243, 98);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 20%;
+}
+#number_of_objects,#status{
+    font-size: 23px;
+    color: white;
+}
+#footer{
+    width: 100%;
+    line-height: 2;
+    color: tomato;
+    background-color: gold;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+canvas{
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px lightblue;
+    border:crimson;
+    border-radius: 10px;
+}
